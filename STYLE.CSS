@@ -1,12 +1,30 @@
-body
-{
+body{
 	background-color: yellow;
+}
+
+.cabeçalho{
+	background-color: red;
+	font-size: 30px;
+}
+
+.cabeçalho h1 {
+	text-align: left;
 }
 h1{
 	text-align: center;
-	color: orangered;
+	color: yellow;
 }
 #matematica{
 	height: 400px;
 	width: 600px;
+}
+.itens{
+	color: purple;
+	text-align: left;
+	font-size: 15px;
+}
+.itenss{
+	color:red;
+	text-align: left;
+	font-size: 15px;
 }
